@@ -34,7 +34,7 @@ When researching a topic, I keep my obsessive disorder and anxiety when browsing
 ### BECAUSE!
 Every day, every day and every day… We always ask the same questions. We ask questions that have been answered before. We forgot to do research or “Have it been answered before?". So, We read the same answers thousands of times.
 
-Don't ask like this question anyone at anywhere! “Hey guys! What is ‘Eiffel Tower?'” Just GO-OGLE it.
+Don't ask like this question anyone at anywhere! “Hey guys! What is ‘Eiffel Tower?'” **Just GO-OGLE it.**
 
 If you dont find anything about “Eiffel Tower” (really?), ASK!
 
