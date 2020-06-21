@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://0derel.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://0derel.com/DAMN) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://0derel.com/whyisdamn)
 
 # DAMN - Don't ask me now! [Go-ogle](https://google.com)
 
