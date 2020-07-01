@@ -58,7 +58,7 @@ Think you're in god mode in a game you're playing. It has a search box and you h
 * You have the power to **understand** everything.
 
 ### BUT!
-You dont use this power! You choose to steal people's time. You choose the easy one like a coward!
+You dont use this power! You choose to steal people's time. You choose the easy one!
 
 Your mind is like a dynamic machine. Thousands of neurons are waiting to generate new neural networks. But, you kill them one by one by not using them!
 ---
