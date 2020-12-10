@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://0derel.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://0derel.com/DAMN) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://0derel.com/google)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://dogukanerel.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://dogukanerel.com) [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://dogukanerel.com)
 
 # How to ask good questions?
 > **DAMN!** Don't ask me now! Go-ogle
@@ -10,7 +10,7 @@ But, I can say "**How to search with Google better?**"
 
 ## Before reading this article...
 
-You should read [DAMN](https://0derel.com/DAMN) Manifest! 
+You should read [DAMN](https://dogukanerel.com) Manifest! 
 * Stop The Pollution
 * Save The Internet
 * DAMN
@@ -101,7 +101,7 @@ define:vulnerability
 ### 5.2 - cache:
 This operator returns the most cached web page about your search.
 ```markdown
-cache:0derel.com
+cache:dogukanerel.com
 ```
 
 ### 5.3 - site:
@@ -120,7 +120,7 @@ python filetype:pdf
 ### 5.5 - intitle:
 This operator find any results contain the selected word or something in title.
 ```markdown
-intitle:0derel
+intitle:derelartwork
 ```
 
 ### 5.6 - allintitle:
@@ -132,7 +132,7 @@ allintitle:DAMN Manifest
 ### 5.7 - inurl:
 This operator find any results contain the selected word in url.
 ```markdown
-inurl:0derel
+inurl:derelartwork
 ```
 
 ### 5.8 - allinurl:
